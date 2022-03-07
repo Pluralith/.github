@@ -3,9 +3,9 @@
 
 **Pluralith** is a nifty little tool for Terraform state visualisation and automated infrastructure documentation.
 
-`We are currently in Private Alpha`
+![flow-illustration](https://user-images.githubusercontent.com/25454503/157022487-3bdab1ff-6afb-46ca-ac11-0beb4f7337c4.svg)
 
-![Pluralith](https://alpha.pluralith.com/img/platform-preview.b3fce129.svg)
+`Pluralith is currently in Private Alpha`
 
 ## Looking to become a tester or talk about the project?
 - Sign up for the `alpha` over on our **[Website](https://www.pluralith.com)**
