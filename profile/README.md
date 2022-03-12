@@ -17,6 +17,6 @@
 
 &nbsp;
 
-![GitHub Badge](https://user-images.githubusercontent.com/25454503/156019514-e36729f1-b281-49e0-adcc-5a56bc49afcf.svg)
+![GitHub Badge Blue](https://user-images.githubusercontent.com/25454503/158032153-4fcd64c7-456a-4c57-bfe8-4ea21599cc24.svg)
 
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/pluralith?style=social)
